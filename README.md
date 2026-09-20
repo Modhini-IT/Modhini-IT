@@ -6,7 +6,6 @@
 
 Building things, experimenting with ideas, and learning along the way.
 
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/modzz_16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modhini-v-074640385)
 
 </div>
