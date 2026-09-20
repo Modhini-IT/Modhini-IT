@@ -54,21 +54,27 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 ## 🎀 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Modhini-IT&show_icons=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
+    alt="Modhini's GitHub Stats"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Modhini-IT&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Modhini-IT&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF85B3&currStreakNum=FFC0D9&sideNums=FFC0D9&currStreakLabel=FF69B4&sideLabels=F8C8DC&dates=F8C8DC"
+    alt="Modhini's GitHub Streak"
+  />
+</p>
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Modhini-IT&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF85B3&currStreakNum=FFC0D9&sideNums=FFC0D9&currStreakLabel=FF69B4&sideLabels=F8C8DC&dates=F8C8DC" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modhini-IT&layout=compact&title_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4" />
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modhini-IT&layout=compact&title_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
+    alt="Top Languages"
+  />
 </p>
 
 ---
-
 
 ## Contributions
 
@@ -94,4 +100,13 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
       src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Modhini-IT&label=Profile%20Views&color=ff69b4&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
