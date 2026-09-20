@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Modhini V
+# Modhini V
 
 ### Information Technology @ SVCE
 
@@ -69,8 +69,7 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 
 ---
 
-## 🐍 Contribution Snake
-
+## Contributions
 <p align="center">
 
 <picture>
