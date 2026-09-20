@@ -55,27 +55,31 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Modhini-IT&show_icons=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
-    alt="Modhini's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com/?user=Modhini-IT&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF85B3&currStreakNum=FFC0D9&sideNums=FFC0D9&currStreakLabel=FF69B4&sideLabels=F8C8DC&dates=F8C8DC"
     alt="Modhini's GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modhini-IT&layout=compact&title_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
+## Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Pink contribution snake"
+      src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 ## Contributions
 
 <p align="center">
