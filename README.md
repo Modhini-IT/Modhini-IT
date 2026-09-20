@@ -1,40 +1,30 @@
-<h1 align="center">Hi, I'm Modhini 👋</h1>
+name: Generate Pink Snake
 
-<p align="center">
-  Information Technology Student
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
----
+jobs:
+  generate:
+    permissions:
+      contents: write
 
-<h2 align="center">Tech Stack</h2>
+    runs-on: ubuntu-latest
 
-<p align="center">
-  C • C++ • Python • HTML • CSS • MySQL • Git • GitHub • Figma
-</p>
+    steps:
+      - name: Generate pink contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Modhini-IT
 
----
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#ff4f9a&color_dots=#fff5fa,#ffd6e7,#ffadc8,#ff79aa,#ff3b8d
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff69b4&color_dots=#161b22,#54213a,#96365e,#d94d82,#ff69b4
 
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting :)
-</p>
+      - name: Publish snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./dist
