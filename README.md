@@ -55,24 +55,24 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 
 <p align="center">
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Modhini-IT&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
-    alt="Modhini's GitHub Stats"
-  />
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Modhini-IT&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
+  alt="GitHub Stats"
+/>
 
-  <br><br>
+<br><br>
 
-  <img
-    src="https://streak-stats.demolab.com/?user=Modhini-IT&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF85B3&currStreakNum=FFC0D9&sideNums=FFC0D9&currStreakLabel=FF69B4&sideLabels=F8C8DC&dates=F8C8DC"
-    alt="Modhini's GitHub Streak"
-  />
+<img
+  src="https://streak-stats.demolab.com/?user=Modhini-IT&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF85B3&currStreakNum=FFC0D9&sideNums=FFC0D9&currStreakLabel=FF69B4&sideLabels=F8C8DC&dates=F8C8DC"
+  alt="GitHub Streak"
+/>
 
-  <br><br>
+<br><br>
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Modhini-IT&layout=compact&title_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
-    alt="Most Used Languages"
-  />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Modhini-IT&layout=compact&title_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
+  alt="Most Used Languages"
+/>
 
 </p>
 
@@ -81,27 +81,31 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 ## Contributions
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Modhini-IT&bg_color=0d1117&color=ffc0d9&line=ff69b4&point=ffb6d9&area=true&area_color=ff69b4&hide_border=true"
-    alt="Modhini's GitHub Activity Graph"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Modhini-IT&theme=react-dark&bg_color=0D1117&color=FFC0D9&line=FF69B4&point=FFB6D9&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
+
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Pink contribution snake"
-      src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
-    />
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Pink Contribution Snake"
+    src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 </p>
 
 ---
