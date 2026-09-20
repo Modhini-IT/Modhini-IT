@@ -69,28 +69,29 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 
 ---
 
+
 ## Contributions
+
 <p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
-  />
   <img
-    alt="Pink contribution snake"
-    src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Modhini-IT&bg_color=0d1117&color=ffc0d9&line=ff69b4&point=ffb6d9&area=true&area_color=ff69b4&hide_border=true"
+    alt="Modhini's GitHub Activity Graph"
   />
-</picture>
-
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Modhini-IT&label=Profile%20Views&color=ff69b4&style=flat-square" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Pink contribution snake"
+      src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
