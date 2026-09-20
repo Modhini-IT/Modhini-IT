@@ -54,15 +54,38 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 ## 🎀 GitHub Stats
 
 <p align="center">
+
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Modhini-IT&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
+    alt="Modhini's GitHub Stats"
+  />
+
+  <br><br>
+
   <img
     src="https://streak-stats.demolab.com/?user=Modhini-IT&background=0D1117&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF85B3&currStreakNum=FFC0D9&sideNums=FFC0D9&currStreakLabel=FF69B4&sideLabels=F8C8DC&dates=F8C8DC"
     alt="Modhini's GitHub Streak"
   />
+
+  <br><br>
+
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Modhini-IT&layout=compact&title_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
+    alt="Most Used Languages"
+  />
+
 </p>
 
 ---
 
 ## Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Modhini-IT&bg_color=0d1117&color=ffc0d9&line=ff69b4&point=ffb6d9&area=true&area_color=ff69b4&hide_border=true"
+    alt="Modhini's GitHub Activity Graph"
+  />
+</p>
 
 <p align="center">
   <picture>
@@ -79,4 +102,13 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
       src="https://raw.githubusercontent.com/Modhini-IT/Modhini-IT/gh-pages/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Modhini-IT&label=Profile%20Views&color=ff69b4&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
