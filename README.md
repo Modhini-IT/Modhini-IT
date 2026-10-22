@@ -50,14 +50,7 @@ Right now, I'm focused on improving my problem-solving skills, learning DSA, and
 
 ---
 
-## 🎀 GitHub Stats
 
-<p align="center">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=Modhini-IT&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=f8c8dc&bg_color=0d1117&border_color=ff69b4"
-  alt="GitHub Stats"
-/>
 
 <br><br>
 
